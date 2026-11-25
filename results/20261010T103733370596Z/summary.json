@@ -1,0 +1,11 @@
+{
+  "synthetic": true,
+  "n": 2500,
+  "population_ATE": 3.06,
+  "sample_ATE": 3.0664,
+  "observed_estimate": 4.178831353981268,
+  "oracle_estimate": 3.0077475400781672,
+  "observed_coverage_gamma_1": 0.0,
+  "negative_control_observed": 0.7897801171942571,
+  "identification": "Observed association only"
+}

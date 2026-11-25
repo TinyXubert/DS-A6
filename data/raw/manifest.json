@@ -1,0 +1,15 @@
+{
+  "kind": "explicitly synthetic structural causal model",
+  "version": "1.0",
+  "generated_utc": "2026-10-10T10:37:31.196740+00:00",
+  "seed": 20261016,
+  "n": 2500,
+  "gamma": 1,
+  "files": {
+    "observed.csv": "034c08ea86d1aea0bb53b59ae92f4b2061b9c94fe366da3a2a7f8391c2c114cc",
+    "generator_snapshot.py": "a92ba170b2a411dea1a6b0672375c0aff37afffe5ae4d7e29161060c05466db6",
+    "oracle.csv": "0e03fbaefbbb2183e16bad1cd0208d43c5a066fe0baf445e7e1368cc0012c7f6"
+  },
+  "source": "generate_data.py; no external observations or real participants",
+  "oracle_columns": "U, true_propensity, Y0, Y1 are simulation truth, unavailable to the observed-data estimator"
+}

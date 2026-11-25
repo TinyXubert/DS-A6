@@ -1,0 +1,29 @@
+{
+  "assignment": 6,
+  "title": "Causal Claim and Sensitivity",
+  "author": "xuhongbo",
+  "student_id": "202618018629048",
+  "seed": 20261016,
+  "created_utc": "2026-10-10T10:29:30.302479+00:00",
+  "models": [
+    "Observed adjustment",
+    "Oracle adjustment",
+    "Bad controls"
+  ],
+  "test_selection": false,
+  "status": "protocol fixed before experiment execution",
+  "n": 2500,
+  "confounding_strength": 1,
+  "gamma_grid": [
+    0,
+    0.5,
+    1,
+    1.5
+  ],
+  "simulation_repetitions": 200,
+  "simulation_n": 1200,
+  "estimand": "population ATE of participation on synthetic score",
+  "population_ate": 3.06,
+  "identification": "Not identifiable from observed X,G alone when gamma > 0",
+  "cost": 2.8
+}

@@ -1,0 +1,7 @@
+assumption,status,implication
+Consistency and no interference,True by construction in this simulation,A fixes one specified intervention; records do not affect each other
+"Exchangeability given X,G",False for gamma > 0,Observed adjusted association cannot identify total ATE
+"Exchangeability given X,G,U",True by structural design,"Oracle total-effect check, not an available estimator"
+Positivity,Logistic propensity strictly between 0 and 1,Finite-sample near-tail overlap remains a precision concern
+No post-treatment adjustment for total effect,Violated by including M or C,Mediator changes estimand; collider may introduce bias
+Measurement and timing,Known synthetic generation order,No evidence about actual training programs or participants

@@ -1,0 +1,6 @@
+{
+  "true_propensity_min": 0.021516228806712,
+  "true_propensity_max": 0.9871344842805676,
+  "fraction_outside_005_095": 0.0124,
+  "oracle_only": true
+}

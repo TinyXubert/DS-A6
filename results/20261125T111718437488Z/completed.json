@@ -1,0 +1,9 @@
+{
+  "completed_utc": "2026-11-25T11:17:21.604362+00:00",
+  "protocol_sha256": "3843bc91605cd6de8786bcde34cfd4deb25c8ace9dc33f07c66884334817ad9e",
+  "manifest_sha256": "a02d0606e113c70ca453093e6a77b26fb9821722a4f780c56015ac4ea4b46d54",
+  "summary_words": 222,
+  "analysis_source_sha256": "168698fd87575cf4616ce6b122361879ec6a7c89f1e74fe4fb883b6661a1a066",
+  "notebook_code_sha256": "742bbd05774024a57785b56f31641522f4bd599f20971b71de734fe9230c6551",
+  "personal_verification": "Not asserted by automated execution"
+}

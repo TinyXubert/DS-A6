@@ -1,0 +1,14 @@
+# Publish only the reproducible assignment files.
+/*
+!/.gitignore
+!/LICENSE
+!/A6.ipynb
+!/analysis.py
+!/generate_data.py
+!/verify_results.py
+!/requirements.txt
+!/data/
+!/results/
+**/__pycache__/
+**/.ipynb_checkpoints/
+**/*.md

@@ -1,0 +1,14 @@
+{
+  "recommendation": "Do not deploy an allocation rule from the observed adjusted associations.",
+  "identification": "Hidden U leaves total effect unidentified from observed X,G. Oracle access is simulation-only.",
+  "fairness": "Inspect access and outcomes by relevant groups; synthetic G provides no evidence of real demographic performance. Do not turn the simulated group contrast into an exclusion rule.",
+  "cost": "2.8 synthetic score-equivalent units is a teaching assumption, not an observed economic utility.",
+  "appeal": "Any prospective pilot needs a documented human reconsideration route, explanation of decisions and correction of data errors.",
+  "stop_conditions": [
+    "evidence of harm or unequal access",
+    "poor overlap or unstable subgroup estimates",
+    "negative-control evidence inconsistent with identification assumptions",
+    "intervention differs from the stated treatment"
+  ],
+  "next_evidence": "An ethically reviewed randomized or otherwise credibly identified prospective study, with explicit consent and monitoring."
+}
